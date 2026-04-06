@@ -1,14 +1,14 @@
-## Privacy Policy for GlowUp AI
+## Privacy Policy for Picto AI Photo Editor
 
 **Last updated:** January 30, 2026
 
-GlowUp AI (“we”, “our”, or “us”) respects your privacy and is committed to protecting it. This Privacy Policy explains how your information is collected, used, and handled when you use the GlowUp AI mobile application.
+Picto AI (“we”, “our”, or “us”) respects your privacy and is committed to protecting it. This Privacy Policy explains how your information is collected, used, and handled when you use the GlowUp AI mobile application.
 
 ---
 
 ### 1. Information We Collect
 
-GlowUp AI may collect the following types of information:
+Picto AI may collect the following types of information:
 
 #### a. Photos and Videos
 - Photos or videos are collected **only when you choose to upload them**
@@ -50,7 +50,7 @@ We **do not**:
 
 ### 4. Third-Party Services
 
-GlowUp AI uses trusted third-party services for:
+Picto AI uses trusted third-party services for:
 - Authentication
 - Payments (Apple In-App Purchases)
 - Backend infrastructure
@@ -61,7 +61,7 @@ These services are only provided access to information necessary to perform thei
 
 ### 5. Children’s Privacy
 
-GlowUp AI is **not intended for children under the age of 13**. We do not knowingly collect personal data from children.
+Picto AI is **not intended for children under the age of 13**. We do not knowingly collect personal data from children.
 
 ---
 
