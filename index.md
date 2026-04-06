@@ -83,4 +83,4 @@ We may update this Privacy Policy from time to time. Changes will be reflected o
 
 If you have questions about this Privacy Policy, contact us at:
 
-📧 **Email:** rithikmotu@gmail.com
+📧 **Email:** rithikmotupalli@gmail.com
